@@ -14,4 +14,8 @@ The application is allowed to be installed on a mobile device because of the man
 
 This properly formatted file tells the device about the program. This allows the device to take advantage of an applcation known as a service worker. 
 
+For this example there is no actual server-side code. ( Well except to pull in the HTML templates ). Those BTW are stored in the local storage. 
+
+
+
 
